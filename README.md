@@ -1,9 +1,9 @@
 # NY Bikesharing
 
 ## Overview of the analysis
-The main purpose of this analysis was to provide insight for investors that a bike-sharing program would florish in Des Moines by utilizing Tableau Public to visualize the data.
+The main purpose of this analysis was to provide demographic insight for investors that a bike-sharing program would florish in Des Moines by utilizing Tableau Public to visualize the data.
 
-Access Tableau Storyboard here: [link to dashboard](https://public.tableau.com/app/profile/june.pui/viz/NYCitibike_16278740100980/NYCCitiBike?publish=yes)
+Access Tableau Storyboard here: [link to storyboard](https://public.tableau.com/app/profile/june.pui/viz/NYCitibike_16278740100980/NYCCitiBike?publish=yes)
 
 ## Results
 
@@ -24,6 +24,7 @@ This graph shows the peak hours for biking in August of NYC.  The top riding hou
 ![august_peak_hrs](https://github.com/junepwk/bikesharing/blob/main/Stories/august_peak_hrs.png)
 
 ### Trips by Weekday per Hour
+On Thursdays around 5pm-7pm appeared to be the most popular time for bikers. 
 ![number_of_trips_per_hour_per_weekday](https://github.com/junepwk/bikesharing/blob/main/Stories/number_of_trips_per_hour_per_weekday.png)
 
 ### Trips by Gender
@@ -33,3 +34,6 @@ This heatmap breaks down the number of trips per hour for each day of the week b
 ### User Trips by Gender by Weekday
 This heatmap further breaks down the previous heatmap by showcasing the two different types of cilentele. There are more subscribers than regular customers. 
 ![user_type](https://github.com/junepwk/bikesharing/blob/main/Stories/user_type.png)
+
+## Summary
+August was the main focus of this analysis as it was the busiest month for bike sharing businesses. There were a wide range of customers from all ages, however, it appears the younger demographic utilized this service more frequently.
