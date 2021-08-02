@@ -3,6 +3,8 @@
 ## Overview of the analysis
 The main purpose of this analysis was to provide insight for investors that a bike-sharing program would florish in Des Moines by utilizing Tableau Public to visualize the data.
 
+Access Tableau Storyboard here: [link to dashboard](https://public.tableau.com/app/profile/june.pui/viz/NYCitibike_16278740100980/NYCCitiBike?publish=yes)
+
 ## Results
 
 ### Checkout Times for Users
